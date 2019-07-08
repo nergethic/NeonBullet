@@ -16,3 +16,5 @@ Grass generation uses Poisson sampling for less random looking distribution.
 - processing wall chains (multiple tiles consisting of walls facing the same direction) in order to make possible generating wall variations longer than 1 tile. (almost finished)
 
 - generation of multiple room patterns connected with corridors
+
+![Image of generated room](https://nergethic.github.io/images/neonBullets.png)
